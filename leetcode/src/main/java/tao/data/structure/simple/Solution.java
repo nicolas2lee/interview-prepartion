@@ -1,8 +1,6 @@
 package tao.data.structure.simple;// IMPORT LIBRARY PACKAGES NEEDED BY YOUR PROGRAM
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 // SOME CLASSES WITHIN A PACKAGE MAY BE RESTRICTED
 // DEFINE ANY CLASS AND METHOD NEEDED
